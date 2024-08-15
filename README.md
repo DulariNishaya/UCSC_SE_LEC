@@ -1,1 +1,1 @@
-# UCSC_SE_LEC
+# UCSC_SE
